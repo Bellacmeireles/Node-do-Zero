@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://node-do-zero-12ga.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,13 +9,13 @@ Content-Type: application/json
 
 ###
 
-GET  http://localhost:3333/videos
+GET  https://node-do-zero-12ga.onrender.com/videos
 
 // ?search=node
 
 ###
 
-PUT http://localhost:3333/videos/dcff44ae-6d52-4705-b54c-38a45afae79e
+PUT https://node-do-zero-12ga.onrender.com/videos/dcff44ae-6d52-4705-b54c-38a45afae79e
 Content-Type: application/json
 
 {
